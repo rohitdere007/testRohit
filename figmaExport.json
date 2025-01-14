@@ -1,0 +1,1308 @@
+[
+  {
+    "semantic": {
+      "modes": {
+        "light": {
+          "color": {
+            "bg": {
+              "surface": {
+                "raised": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{white}",
+                  "hover": {
+                    "$scopes": [
+                      "FRAME_FILL"
+                    ],
+                    "$type": "color",
+                    "$libraryName": "",
+                    "$collectionName": "global",
+                    "$value": "{grey.20}"
+                  },
+                  "pressed": {
+                    "$scopes": [
+                      "FRAME_FILL"
+                    ],
+                    "$type": "color",
+                    "$libraryName": "",
+                    "$collectionName": "global",
+                    "$value": "{grey.30}"
+                  }
+                },
+                "flat": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{grey.10}"
+                },
+                "sunken": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{grey.20}"
+                }
+              },
+              "primary": {
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.90}"
+                },
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.10}"
+                },
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{blue.70}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.80}"
+                }
+              },
+              "critical": {
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.90}"
+                },
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{red.70}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.80}"
+                },
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.10}"
+                }
+              },
+              "success": {
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{green.10}"
+                },
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{green.70}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{green.80}"
+                },
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{green.90}"
+                }
+              },
+              "warning": {
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{yellow.30}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.40}"
+                },
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.50}"
+                },
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.10}"
+                }
+              }
+            },
+            "border": {
+              "critical": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{red.70}",
+                "subdued": {
+                  "$scopes": [
+                    "STROKE_COLOR"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.30}"
+                }
+              },
+              "primary": {
+                "subdued": {
+                  "$scopes": [
+                    "STROKE_COLOR"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.30}"
+                }
+              },
+              "$scopes": [
+                "STROKE_COLOR"
+              ],
+              "$type": "color",
+              "$libraryName": "",
+              "$collectionName": "global",
+              "$value": "{grey.30}",
+              "focus": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{blue.70}"
+              },
+              "hover": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.40}"
+              },
+              "pressed": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.50}"
+              },
+              "warning": {
+                "subdued": {
+                  "$scopes": [
+                    "STROKE_COLOR"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.30}"
+                }
+              }
+            },
+            "fg": {
+              "$scopes": [
+                "TEXT_FILL",
+                "SHAPE_FILL"
+              ],
+              "$type": "color",
+              "$libraryName": "",
+              "$collectionName": "global",
+              "$value": "{grey.100}",
+              "subdued": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.80}"
+              },
+              "primary": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{blue.70}",
+                "hover": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.80}"
+                },
+                "pressed": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.90}"
+                }
+              },
+              "critical": {
+                "hover": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.80}"
+                },
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{red.70}",
+                "pressed": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.90}"
+                }
+              },
+              "onDarkColor": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.10}"
+              },
+              "success": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{green.70}"
+              },
+              "warning": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{yellow.70}"
+              },
+              "onLightColor": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.100}"
+              },
+              "placeholder": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.50}"
+              },
+              "brand": {
+                "$scopes": [
+                  "ALL_SCOPES"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{brand}"
+              }
+            }
+          }
+        },
+        "dark": {
+          "color": {
+            "bg": {
+              "surface": {
+                "raised": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{black}",
+                  "hover": {
+                    "$scopes": [
+                      "FRAME_FILL"
+                    ],
+                    "$type": "color",
+                    "$libraryName": "",
+                    "$collectionName": "global",
+                    "$value": "{grey.90}"
+                  },
+                  "pressed": {
+                    "$scopes": [
+                      "FRAME_FILL"
+                    ],
+                    "$type": "color",
+                    "$libraryName": "",
+                    "$collectionName": "global",
+                    "$value": "{grey.80}"
+                  }
+                },
+                "flat": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{grey.100}"
+                },
+                "sunken": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{grey.90}"
+                }
+              },
+              "primary": {
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.90}"
+                },
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.100}"
+                },
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{blue.70}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.80}"
+                }
+              },
+              "critical": {
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.90}"
+                },
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{red.70}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.80}"
+                },
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.100}"
+                }
+              },
+              "success": {
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{green.100}"
+                },
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{green.70}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{green.80}"
+                },
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{green.90}"
+                }
+              },
+              "warning": {
+                "$scopes": [
+                  "FRAME_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{yellow.30}",
+                "hover": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.40}"
+                },
+                "pressed": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.50}"
+                },
+                "subdued": {
+                  "$scopes": [
+                    "FRAME_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.100}"
+                }
+              }
+            },
+            "border": {
+              "critical": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{red.40}",
+                "subdued": {
+                  "$scopes": [
+                    "STROKE_COLOR"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.80}"
+                }
+              },
+              "primary": {
+                "subdued": {
+                  "$scopes": [
+                    "STROKE_COLOR"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.80}"
+                }
+              },
+              "$scopes": [
+                "STROKE_COLOR"
+              ],
+              "$type": "color",
+              "$libraryName": "",
+              "$collectionName": "global",
+              "$value": "{grey.80}",
+              "focus": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{blue.40}"
+              },
+              "hover": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.70}"
+              },
+              "pressed": {
+                "$scopes": [
+                  "STROKE_COLOR"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.60}"
+              },
+              "warning": {
+                "subdued": {
+                  "$scopes": [
+                    "STROKE_COLOR"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{yellow.80}"
+                }
+              }
+            },
+            "fg": {
+              "$scopes": [
+                "TEXT_FILL",
+                "SHAPE_FILL"
+              ],
+              "$type": "color",
+              "$libraryName": "",
+              "$collectionName": "global",
+              "$value": "{grey.10}",
+              "subdued": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.30}"
+              },
+              "primary": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{blue.40}",
+                "hover": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.50}"
+                },
+                "pressed": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{blue.60}"
+                }
+              },
+              "critical": {
+                "hover": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.50}"
+                },
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{red.40}",
+                "pressed": {
+                  "$scopes": [
+                    "TEXT_FILL",
+                    "SHAPE_FILL"
+                  ],
+                  "$type": "color",
+                  "$libraryName": "",
+                  "$collectionName": "global",
+                  "$value": "{red.60}"
+                }
+              },
+              "onDarkColor": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.10}"
+              },
+              "success": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{green.40}"
+              },
+              "warning": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{yellow.40}"
+              },
+              "onLightColor": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.100}"
+              },
+              "placeholder": {
+                "$scopes": [
+                  "TEXT_FILL",
+                  "SHAPE_FILL"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{grey.50}"
+              },
+              "brand": {
+                "$scopes": [
+                  "ALL_SCOPES"
+                ],
+                "$type": "color",
+                "$libraryName": "",
+                "$collectionName": "global",
+                "$value": "{white}"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "global": {
+      "modes": {
+        "Value": {
+          "red": {
+            "10": {
+              "$type": "color",
+              "$value": "#fff6f5"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#ffe3e0"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#ffcdca"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#ffa09a"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#ff6f66"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#f0382e"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#c4231a"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#951710"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#660f0a"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#390906"
+            }
+          },
+          "yellow": {
+            "10": {
+              "$type": "color",
+              "$value": "#fffbd6"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#fff49e"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#ffd60d"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#e4b400"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#c29700"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#9f7b00"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#7e6100"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#5e4800"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#3e3000"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#221a00"
+            }
+          },
+          "grey": {
+            "10": {
+              "$type": "color",
+              "$value": "#f8f8f9"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#ececef"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#d8d9e1"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#b7b9c7"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#9a9cb0"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#7c7e98"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#606380"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#464966"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#2e3047"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#191a28"
+            }
+          },
+          "spacing": {
+            "md": {
+              "24px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 24
+              },
+              "12px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 12
+              },
+              "16px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 16
+              },
+              "20px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 20
+              }
+            },
+            "lg": {
+              "64px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 64
+              },
+              "40px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 40
+              },
+              "80px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 80
+              },
+              "32px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 32
+              }
+            },
+            "sm": {
+              "2px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 2
+              },
+              "4px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 4
+              },
+              "6px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 6
+              },
+              "8px": {
+                "$scopes": [
+                  "GAP"
+                ],
+                "$type": "float",
+                "$value": 8
+              }
+            }
+          },
+          "orange": {
+            "10": {
+              "$type": "color",
+              "$value": "#fff8ea"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#ffe9bd"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#ffd377"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#ffa712"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#e78500"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#bf6b00"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#985400"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#723e00"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#4c2a00"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#291700"
+            }
+          },
+          "border": {
+            "radii": {
+              "2": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 2
+              },
+              "4": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 4
+              },
+              "6": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 6
+              },
+              "8": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 8
+              },
+              "12": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 12
+              },
+              "16": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 16
+              },
+              "20": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 20
+              },
+              "24": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 24
+              },
+              "full": {
+                "$scopes": [
+                  "CORNER_RADIUS"
+                ],
+                "$type": "float",
+                "$value": 999
+              }
+            }
+          },
+          "blue": {
+            "10": {
+              "$type": "color",
+              "$value": "#eff9fd"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#dbf1fa"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#ace1f4"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#61c6ea"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#17a8e0"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#0084d6"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#0063c6"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#0040b4"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#001d99"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#000864"
+            }
+          },
+          "purple": {
+            "10": {
+              "$type": "color",
+              "$value": "#f9f6fa"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#f2ebf4"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#e2d4ea"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#cbb0d9"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#b48fc9"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#9d6db7"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#864ca6"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#6e2a92"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#500777"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#2d004d"
+            }
+          },
+          "brand": {
+            "$scopes": [
+              "ALL_SCOPES"
+            ],
+            "$type": "color",
+            "$value": "#00148c"
+          },
+          "green": {
+            "10": {
+              "$type": "color",
+              "$value": "#eefbee"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#daf6da"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#a8e9a8"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#51d351"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#2db52d"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#259325"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#1d741d"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#165716"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#0f3a0f"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#081f08"
+            }
+          },
+          "black": {
+            "$type": "color",
+            "$value": "#000000"
+          },
+          "white": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        }
+      }
+    }
+  }
+]

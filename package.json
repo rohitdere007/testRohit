@@ -1,0 +1,51 @@
+{
+  "private": true,
+  "author": "Mike Speed <michael.speed@nationalgrid.com>",
+  "name": "@nationalgrid-engineering/frontend-libraries",
+  "packageManager": "npm@10.9.0",
+  "engines": {
+    "node": "22.11.0",
+    "npm": "10.9.0"
+  },
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "npm run dev:components & npm run storybook",
+    "dev:components": "turbo run dev --filter=./packages/styled-components",
+    "dev:packages": "turbo run dev --filter=./packages/* --filter=!./packages/styled-components",
+    "dev:apps": "turbo run dev:apps  --concurrency=11",
+    "storybook": "turbo run dev --filter=./apps/docs",
+    "test": "turbo run test",
+    "test:watch": "turbo run test:watch",
+    "lint": "turbo run lint",
+    "prepare": "husky",
+    "lint-staged": "turbo run lint-staged",
+    "release": "turbo run release",
+    "commitlint": "commitlint --edit"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "@nationalgrid-engineering/prettier-config": "^0.2.0",
+    "@turbo/gen": "^1.9.7",
+    "@types/node": "^22.10.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.16.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.10",
+    "prettier": "^3.4.2",
+    "turbo": "^2.3.3",
+    "typescript": "5.7.2",
+    "vite": "6.0.2",
+    "vite-plugin-dts": "^4.3.0",
+    "vite-tsconfig-paths": "^5.1.3",
+    "vite-plugin-svgr": "^4.3.0"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.28.0"
+  }
+}
